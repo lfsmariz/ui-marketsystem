@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ui-marketsystem/static/css/main.4a220e97.chunk.css",
+    "main.js": "/ui-marketsystem/static/js/main.b6419a1c.chunk.js",
+    "main.js.map": "/ui-marketsystem/static/js/main.b6419a1c.chunk.js.map",
+    "runtime-main.js": "/ui-marketsystem/static/js/runtime-main.52b6a7b4.js",
+    "runtime-main.js.map": "/ui-marketsystem/static/js/runtime-main.52b6a7b4.js.map",
+    "static/js/2.a3b4ed3d.chunk.js": "/ui-marketsystem/static/js/2.a3b4ed3d.chunk.js",
+    "static/js/2.a3b4ed3d.chunk.js.map": "/ui-marketsystem/static/js/2.a3b4ed3d.chunk.js.map",
+    "static/js/3.d80dda3e.chunk.js": "/ui-marketsystem/static/js/3.d80dda3e.chunk.js",
+    "static/js/3.d80dda3e.chunk.js.map": "/ui-marketsystem/static/js/3.d80dda3e.chunk.js.map",
+    "index.html": "/ui-marketsystem/index.html",
+    "static/css/main.4a220e97.chunk.css.map": "/ui-marketsystem/static/css/main.4a220e97.chunk.css.map",
+    "static/js/2.a3b4ed3d.chunk.js.LICENSE.txt": "/ui-marketsystem/static/js/2.a3b4ed3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52b6a7b4.js",
+    "static/js/2.a3b4ed3d.chunk.js",
+    "static/css/main.4a220e97.chunk.css",
+    "static/js/main.b6419a1c.chunk.js"
+  ]
+}
